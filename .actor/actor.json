@@ -1,0 +1,20 @@
+{
+  "actorSpecification": 1,
+  "name": "weworkremotely-jobs-scraper",
+  "title": "WeWorkRemotely Jobs & Tech Hiring Scraper (Worldwide Remote)",
+  "description": "Extract verified remote tech jobs, company logos, categories, regions, employment types, and direct job links from WeWorkRemotely. Fast XML feed, zero proxies, $0.003/lead.",
+  "version": "1.0",
+  "buildTag": "latest",
+  "defaultMemoryMbytes": 256,
+  "minMemoryMbytes": 128,
+  "maxMemoryMbytes": 1024,
+  "meta": {
+    "templateId": "python-start"
+  },
+  "input": "./input_schema.json",
+  "output": "./output_schema.json",
+  "storages": {
+    "dataset": "./dataset_schema.json"
+  },
+  "dockerfile": "../Dockerfile"
+}

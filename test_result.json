@@ -1,0 +1,21 @@
+{
+  "actor_name": "weworkremotely-jobs-scraper",
+  "actor_id": "CZNZzQ65k2bbbNYFa",
+  "duration": 5.4,
+  "items_count": 5,
+  "sample": {
+    "id": "https://weworkremotely.com/remote-jobs/bluegeko-it-infrastructure-engineer",
+    "company": "BlueGeko",
+    "position": "IT Infrastructure Engineer",
+    "category": "DevOps and Sysadmin",
+    "region": "Anywhere in the World",
+    "type": "Full-Time",
+    "url": "https://weworkremotely.com/remote-jobs/bluegeko-it-infrastructure-engineer",
+    "applyUrl": "https://weworkremotely.com/remote-jobs/bluegeko-it-infrastructure-engineer",
+    "companyLogo": "https://we-work-remotely.imgix.net/logos/0171/6543/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress",
+    "summary": "Headquarters: London URL: http://bluegeko.com IT Infrastructure Engineer (Full-Time / Remote) We are looking for an experienced IT Infrastructure Engineer to manage, maintain, and improve our company's IT systems, networks, and infrastructure. What You'll Do Manage and maintain IT infrastructure, se...",
+    "fullDescription": "Headquarters: London URL: http://bluegeko.com IT Infrastructure Engineer (Full-Time / Remote) We are looking for an experienced IT Infrastructure Engineer to manage, maintain, and improve our company's IT systems, networks, and infrastructure. What You'll Do Manage and maintain IT infrastructure, servers, and networks. Monitor system performance, security, and reliability. Troubleshoot infrastructure, hardware, and network issues. Manage access controls, backups, and system configurations. Support infrastructure upgrades, migrations, and improvements. Ensure systems remain secure, scalable, and operational. Must Have 4+ years of IT infrastructure or systems administration experience. Strong knowledge of Windows and Linux environments. Experience with networking (TCP/IP, DNS, VPNs, firewalls). Experience managing servers, virtualization, and cloud infrastructure. Knowledge of Microsoft 365, Active Directory, and access management. Strong troubleshooting and problem-solving skills. Nice to Have AWS, Azure, DigitalOcean or other cloud platform experience. Infrastructure automation and scripting (PowerShell, Bash). Experience with monitoring, backup, and disaster recovery systems. Experience supporting high-availability environments. We're looking for someone hands-on who can take ownership of our IT infrastructure and keep our systems secure, reliable, and efficient. To apply: https://weworkremotely.com/remote-jobs/bluegeko-it-infrastructure-engineer",
+    "postedAt": "Thu, 08 Oct 2026 07:54:30 +0000",
+    "extractedAt": "2026-10-08T10:03:00.377154+00:00"
+  }
+}

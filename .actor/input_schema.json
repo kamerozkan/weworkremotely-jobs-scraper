@@ -1,0 +1,32 @@
+{
+  "title": "WeWorkRemotely Jobs Scraper Input",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "maxItems": {
+      "title": "Maximum Job Leads",
+      "type": "integer",
+      "description": "Maximum number of remote job leads to extract.",
+      "default": 30,
+      "minimum": 1,
+      "maximum": 500
+    },
+    "keywordFilter": {
+      "title": "Keyword Filter",
+      "type": "string",
+      "description": "Filter jobs by technology, role, or title (e.g., Python, React, DevOps, AI, Sales). Leave empty for all.",
+      "editor": "textfield",
+      "default": ""
+    },
+    "categoryFilter": {
+      "title": "Category Filter",
+      "type": "string",
+      "description": "Filter jobs by category (e.g., Programming, DevOps, Design, Management, Sales). Leave empty for all.",
+      "editor": "textfield",
+      "default": ""
+    }
+  },
+  "required": [
+    "maxItems"
+  ]
+}

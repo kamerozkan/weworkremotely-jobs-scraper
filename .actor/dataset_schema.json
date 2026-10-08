@@ -1,0 +1,49 @@
+{
+  "actorSpecification": 1,
+  "title": "WeWorkRemotely Jobs",
+  "description": "Dataset of extracted WeWorkRemotely remote tech jobs.",
+  "views": {
+    "overview": {
+      "title": "Jobs Overview",
+      "transformation": {
+        "fields": [
+          "company",
+          "position",
+          "category",
+          "region",
+          "type",
+          "url"
+        ]
+      },
+      "display": {
+        "component": "table",
+        "properties": {
+          "company": {
+            "label": "Company",
+            "format": "text"
+          },
+          "position": {
+            "label": "Position",
+            "format": "text"
+          },
+          "category": {
+            "label": "Category",
+            "format": "text"
+          },
+          "region": {
+            "label": "Region",
+            "format": "text"
+          },
+          "type": {
+            "label": "Employment Type",
+            "format": "text"
+          },
+          "url": {
+            "label": "Job Link",
+            "format": "link"
+          }
+        }
+      }
+    }
+  }
+}

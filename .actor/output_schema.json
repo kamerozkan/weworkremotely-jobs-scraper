@@ -1,0 +1,13 @@
+{
+  "actorOutputSchemaVersion": 1,
+  "title": "WeWorkRemotely Jobs Output",
+  "description": "Structured dataset of remote job openings, companies, and hiring leads.",
+  "properties": {
+    "results": {
+      "type": "string",
+      "title": "WeWorkRemotely Dataset",
+      "description": "Default dataset containing extracted remote job leads.",
+      "template": "{{links.apiDefaultDatasetUrl}}/items"
+    }
+  }
+}
